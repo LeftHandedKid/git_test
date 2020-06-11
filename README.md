@@ -1,0 +1,1 @@
+This is LeftHandedKid's first git project!
